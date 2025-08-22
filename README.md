@@ -1,4 +1,4 @@
-## Oral Cancer Prediction
+## Oral Cancer Prediction Using ML
 
 ### Project Overview
 
